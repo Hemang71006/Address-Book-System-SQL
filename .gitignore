@@ -1,0 +1,29 @@
+
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# Visual Studio user files
+*.user
+*.suo
+*.userosscache
+
+# Build output
+Debug/
+Release/
+
+# IntelliJ IDEA
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# SQL Server local database files
+*.mdf
+*.ldf
+*.bak
+
+# Logs
+*.log
